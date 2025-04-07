@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋 I'm [Elochka]
 
 🚀 Full-Stack Developer | 💻 Open Source Enthusiast | 🎨 Clean Code Advocate
 
@@ -26,8 +26,7 @@
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| [Project 1](link) | AI-powered task manager | React, FastAPI, PostgreSQL |
-| [Project 2](link) | Real-time collaboration platform | Next.js, WebSocket, MongoDB |
+| [Community Assistant Bot]([link](https://github.com/ElochkaDev/MoscowGeed)) | An automated platform to support Russia's leaders | Python, Aiogram, Dotenv |
 
 ---
 
@@ -37,4 +36,7 @@
 > — John Johnson
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=ElochkaDev.MoscowGeed)
+
+---
+
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
