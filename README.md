@@ -14,13 +14,6 @@
 
 ---
 
-### ⚡ GitHub Stats
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=ElochkaDev&theme=dark)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElochkaDev&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
----
 
 ### 🚀 Featured Projects
 
@@ -34,6 +27,14 @@
 
 > "First, solve the problem. Then, write the code."  
 > — John Johnson
+
+---
+
+### ⚡ GitHub Stats
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=ElochkaDev&theme=dark)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElochkaDev&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=ElochkaDev.MoscowGeed)
 
