@@ -2,7 +2,7 @@
 
 🚀 Full-Stack Developer | 💻 Open Source Enthusiast | 🎨 Clean Code Advocate
 
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/El0chka)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ElochkaDev)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elochka.russia@gmail.com)
 
 ---
