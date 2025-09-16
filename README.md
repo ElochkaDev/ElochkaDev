@@ -2,7 +2,7 @@
 
 🚀 Full-Stack Developer | 💻 Open Source Enthusiast | 🎨 Clean Code Advocate
 
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ElochkaDev)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/E10chka)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elochka.russia@gmail.com)
 
 ---
@@ -11,6 +11,7 @@
 
 **Backend:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-1E90FF?style=for-the-badge&logo=lua&logoColor=white)
 
 ---
 
