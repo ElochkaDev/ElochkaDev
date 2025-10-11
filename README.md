@@ -8,8 +8,7 @@
 ---
 
 ### 🛠️ Tech Stack
-
-**Backend:**  
+ 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-1E90FF?style=for-the-badge&logo=lua&logoColor=white)
 
@@ -24,21 +23,12 @@
 
 ---
 
-### 💡 Development Philosophy
-
-> "First, solve the problem. Then, write the code."  
-> — John Johnson
-
----
-
 ### ⚡ GitHub Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ElochkaDev&theme=whatsapp-dark2&locale=ru)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElochkaDev&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=ElochkaDev.MoscowGeed)
 
 ---
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&height=150&color=21c063&reversal=false&section=footer)
