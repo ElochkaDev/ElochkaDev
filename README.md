@@ -3,7 +3,7 @@
 🚀 Full-Stack Developer | 💻 Open Source Enthusiast | 🎨 Clean Code Advocate
 
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/E10chka)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elochka.russia@gmail.com)
+[![Email](https://img.shields.io/badge/Mail-1581bf?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elochka.russia@gmail.com)
 
 ---
 
@@ -25,9 +25,9 @@
 
 ### ⚡ GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ElochkaDev&theme=whatsapp-dark2&locale=ru)](https://git.io/streak-stats)
-
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=ElochkaDev.MoscowGeed)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=ElochkaDev&theme=whatsapp-dark2&locale=en)](https://git.io/streak-stats)
 
 ---
 
