@@ -19,7 +19,8 @@
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| [Community Assistant Bot]([link](https://github.com/ElochkaDev/MoscowGeed)) | An automated platform to support Russia's leaders | Python, Aiogram, Dotenv |
+| [Moscow Duty Support]([link](https://github.com/ElochkaDev/MoscowGeed)) | An automated platform to support Russia's leaders | Python, Aiogram, Dotenv |
+| [Web Scan Guard]([link](https://github.com/ElochkaDev/WebScanGuard)) | Web Security Scanner is a professional tool for analyzing the security of web applications | Python, Requests, CustomTkinter |
 
 ---
 
