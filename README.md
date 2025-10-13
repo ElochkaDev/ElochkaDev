@@ -1,6 +1,6 @@
-# Hi there! 👋 I'm [Elochka]
+# Hi there! I'm Elochka
 
-🚀 Full-Stack Developer | 💻 Open Source Enthusiast | 🎨 Clean Code Advocate
+Full-Stack Developer | Open Source Enthusiast | Clean Code Advocate
 
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/E10chka)
 [![Email](https://img.shields.io/badge/Mail-1581bf?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elochka.russia@gmail.com)
