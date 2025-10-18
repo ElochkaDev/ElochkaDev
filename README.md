@@ -1,9 +1,9 @@
-# Hi there! I'm Elochka
+# Hi there! I'm Luxide
 
 Full-Stack Developer | Open Source Enthusiast | Clean Code Advocate
 
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/E10chka)
-[![Email](https://img.shields.io/badge/Mail-1581bf?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elochka.russia@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Lux1de)
+[![Email](https://img.shields.io/badge/Mail-1581bf?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luxide@yandex.ru)
 
 ---
 
@@ -26,9 +26,9 @@ Full-Stack Developer | Open Source Enthusiast | Clean Code Advocate
 
 ### ⚡ GitHub Stats
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=ElochkaDev.MoscowGeed)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Lux1de.MoscowGeed)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ElochkaDev&theme=whatsapp-dark2&locale=en)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Lux1de&theme=whatsapp-dark2&locale=en)](https://git.io/streak-stats)
 
 ---
 
